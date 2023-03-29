@@ -1,0 +1,108 @@
+body {
+    font-family: 'Futura Book', sans-serif;
+  }
+header{
+    background-color: #F6F6F6;
+    margin-top: 10px;
+    height: 155px;
+    width: 1535px;
+}  
+main{
+    background-color: #FDFDFD;
+    color: #525252;
+    margin-left: 20px;
+}
+footer{
+    background-color: violet;
+}
+.logo{
+    height: 235px;
+    width: 235px;
+}
+.mail{
+    font-size: 25px;
+    color: #525252;
+    margin-bottom: 0px;
+    margin-top: 75px;
+    font-weight: 200;
+}
+.phone{
+    font-size: 25px;
+    margin-bottom: 0px;
+    margin-top: 75px;
+    color: #525252;
+    margin-right: 1px;
+    padding-right: 100px;
+    font-weight: 400;
+}
+nav{
+    margin-left: 1270px;
+
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.img_product1{
+    height: 385px;
+    width: 728px;
+
+}
+.img_product2{
+    height: 385px;
+    width: 728px;
+
+}
+.img_product3{
+    height: 385px;
+    width: 728px;
+
+}
+.img_product4{
+    height: 385px;
+    width: 728px;
+
+}
+.title_form{
+    font-size: 44px;
+    font-weight: 400;
+}
+.subtitle_form{
+    font-size: 34px;
+    font-weight: 400;
+}
+.product_gallery{
+    margin-top: 150px;
+}
+.form_contact{
+    margin-left: 70px;
+}
+.footer{
+    background-color: #525252;
+    margin-top: 50px;
+}
+.article{
+    display: flex;
+    flex-direction: row;
+    background-color: #F6F6F6;
+}
+.block_showroom{
+    display: flex;
+    flex-direction: column;
+}
+.title_article{
+    font-size: 50px;
+    margin-left: 230px;
+    margin-bottom: 0px;
+    font-weight: 400;
+}
+.form_hr {
+    border-bottom: 2px solid #525252;
+    margin-left: 30px;
+    margin-right: 0px;
+    margin-bottom: 50px;
+  }
+  
+  
