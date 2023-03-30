@@ -383,4 +383,30 @@ nav{
     .social_card1, .social_card2{
       margin-bottom: 0;
     }
+    .senses_color{
+      margin-left: 0;
+      margin-bottom: 20px;
+    }
+    .senses_home{
+      margin-bottom: 20px;
+    }
+    .footer_title1, .footer_title2, .footer_title4{
+      font-size: 18px;
+      margin-left: 150px;
+    }
+    .footer_title3 {
+      font-size: 18px;
+      margin-left: 170px;
+    }
+    .facebook_footer2, .facebook_footer3, .facebook_footer4{
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+    .pinterest_footer1{
+      margin-right: 5px;
+      margin-left: 5px;
+    }
+    .facebook_footer1{
+      margin-left: 5px;
+    }
   }
