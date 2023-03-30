@@ -296,15 +296,20 @@ nav{
     margin-bottom: 53px;
   }
   
-  @media screen and (max-width:600px){
-    .footer{
-      width:100%;
-    }
-    .card_1{
-      width:90%;
-    }
-    main{
-      width:90%;
-    }
+ @media  and (max-width: 1506px) {
+  .img_product1{
+    width:40%
   }
+  .img_product2{
+    width:40%
+  }
+  .header{
+    width: 40%;
+  }
+  body{
+    width: 50%;
+  }
+
+  
+}
   
