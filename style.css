@@ -318,6 +318,7 @@ nav{
     }
     body{
       font-size: 16px;
+      min-zoom: 100%;
     }
     header{
       width: 100%;
