@@ -68,6 +68,10 @@ main{
 }
 nav{
     margin-left: 1270px;
+    width: 1535px;
+    background-color: white;
+    margin-left: 0px;
+    padding-left: 1270px;
 
 }
 .header{
