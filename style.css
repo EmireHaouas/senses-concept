@@ -296,7 +296,7 @@ nav{
     margin-bottom: 53px;
   }
   
-  @media only screen and (max-width: 767px) {
+    @media only screen and (max-width: 767px) {
     footer {
       width: 100%;
       height: auto;
@@ -312,7 +312,7 @@ nav{
       align-items: center;
       justify-content: center;
     }
-    .img_product1, .img_product2, .img_product3, .img_product4{
+    .img_product4{
       width: 80%;
       height: auto;
     }
@@ -337,8 +337,50 @@ nav{
       flex-wrap: nowrap;
       width: 130px;
     }
-    .social_card1, .social_card2, .social_card3, .social_card4{
-      
+    .instagram_card1, .instagram_card2, .instagram_card3, .instagram_card4{
+      height: 21px;
+      width: 21px;
+      }
+      .facebook_card1, .facebook_card2, .facebook_card3, .facebook_card4, .pinterest_card1, .pinterest_card2, .pinterest_card3, .pinterest_card4{
+        height: 21px;
+        width: 21px;
+        margin-right: 10px;
+        margin-left: 10px;
+      }
+      .title_form{
+        font-size: 25px;
+      }
+      .subtitle_form{
+        font-size: 18px;
+      }
+      .img_product1{
+        margin-left: 25px;
+        width: 80%;
+        height: auto;
+      }
+      .img_product2{
+        width: 80%;
+        height: auto;
 
+      }
+      .img_product3{
+        margin-left: 25px;
+        width: 80%;
+        height: auto;
+      }
+     .card4{ 
+      margin-bottom: 50px;
+    }
+    .card1{
+      margin-bottom: 50px;
+    }
+    .card2{
+      margin-bottom: 50px;
+    }
+    .card3{
+      margin-bottom: 50px;
+    }
+    .social_card1, .social_card2{
+      margin-bottom: 0;
     }
   }
