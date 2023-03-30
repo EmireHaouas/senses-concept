@@ -16,6 +16,35 @@ main{
     color: #525252;
     margin-left: 20px;
 }
+.logo_card1{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  bottom: 280px;
+  left: 270px;
+}
+.logo_card2{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 300px;
+  bottom: 280px;
+}
+.logo_card3{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 250px;
+  bottom: 280px;
+}
+.logo_card4{
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  right: 0px;
+  left: 290px;
+  bottom: 280px;
+} 
 
 .logo{
     height: 300px;
@@ -182,40 +211,65 @@ nav{
     justify-content: center;
     margin-top: 14px;
   }
-  .card_1{
+  .card1{
     display: flex;
     flex-direction: column;
     margin-right: 25px;
     margin-bottom: 70px;
   }
-  .card_2{
+  .card2{
     display: flex;
     flex-direction: column;
   }
-  .card_3{
+  .card3{
     display: flex;
     flex-direction: column;
     margin-right: 25px;
   }
-  .card_4{
+  .card4{
     display: flex;
     flex-direction: column;
+  }
+  .image_container1{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .image_container2{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .image_container3{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  .image_container4{
+    display: flex;
+    flex-direction: column;
+    position: relative;
   }
   .instagram_card1, .instagram_card2, .instagram_card3, .instagram_card4{
     height: 31px;
     width: 31px;
+    text-decoration: none;
   }
   .facebook_card1, .facebook_card2, .facebook_card3, .facebook_card4, .pinterest_card1, .pinterest_card2, .pinterest_card3, .pinterest_card4{
     height: 31px;
     width: 31px;
     margin-right: 5px;
     margin-left: 5px;
+    text-decoration: none;
   }
   .pinterest_footer1{
     margin-right: 5px;
-  }.pinterest_footer1, .pinterest_footer2, .pinterest_footer3, .pinterest_footer4, .tiktok_footer1, .facebook_footer1, .facebook_footer2, .facebook_footer3, .facebook_footer4, .instagram_footer1, .instagram_footer2, .instagram_footer3, .instagram_footer4{
+    text-decoration: none;
+   }
+   .pinterest_footer1, .pinterest_footer2, .pinterest_footer3, .pinterest_footer4, .tiktok_footer1, .facebook_footer1, .facebook_footer2, .facebook_footer3, .facebook_footer4, .instagram_footer1, .instagram_footer2, .instagram_footer3, .instagram_footer4{
     height: 25px;
     width: 25px;
+    text-decoration: none;
   }
   .footer_title1, .footer_title2, .footer_title3, .footer_title4{
     color: #F6F6F6;
@@ -296,7 +350,7 @@ nav{
     margin-bottom: 53px;
   }
   
-      @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 767px) {
     footer {
       width: 100%;
       height: auto;
@@ -318,7 +372,7 @@ nav{
     }
     body{
       font-size: 16px;
-      min-zoom: 100%;
+      width: 100%;
     }
     header{
       width: 100%;
@@ -457,3 +511,7 @@ nav{
     }
     
   }
+  
+
+
+  
