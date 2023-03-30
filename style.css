@@ -410,8 +410,8 @@ nav{
       margin-left: 5px;
     }
     .para_footer{
-       font-size: 13px;
-       margin: 30px 10px 30px 15px;
+      font-size: 13px;
+      margin: 30px 10px 30px 15px;
     }
     a:link {
       text-decoration: none;
@@ -419,6 +419,40 @@ nav{
     
     a:visited {
       text-decoration: none;
+    }
+    .hr_form{
+      width: 260px;
+    }
+    .title_form{
+      font-size: 22px;
+    }
+    .subtitle_form{
+      font-size: 16px;
+      margin-bottom: 50px;
+    }
+    .form_contact{
+      margin-left: 40px;
+    }
+    .showroom_img{
+      height: 250px;
+      width: 340px;
+      margin-top: 20px;
+    }
+    iframe{
+     width: 80%;
+     height: 80%;
+    }
+    .article {
+      display: flex;
+      flex-direction: column-reverse;
+    }
+    .title_article{
+      font-size: 30px;
+      margin-left: 0;
+    }
+    .hr_maps{
+      margin-left: 0;
+      width: 250px;
     }
     
   }
