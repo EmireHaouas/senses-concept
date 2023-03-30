@@ -296,7 +296,7 @@ nav{
     margin-bottom: 53px;
   }
   
-    @media only screen and (max-width: 767px) {
+      @media only screen and (max-width: 767px) {
     footer {
       width: 100%;
       height: auto;
@@ -409,4 +409,16 @@ nav{
     .facebook_footer1{
       margin-left: 5px;
     }
+    .para_footer{
+      margin-left: 0;
+      font-size: 16px;
+    }
+    a:link {
+      text-decoration: none;
+    }
+    
+    a:visited {
+      text-decoration: none;
+    }
+    
   }
