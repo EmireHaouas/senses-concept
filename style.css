@@ -50,12 +50,14 @@ nav{
 .img_product1{
     height: 384px;
     width: 730px;
+    margin-top: 50px;
 
 }
 .img_product2{
     height: 384px;
     width: 730px;
     margin-left: 25px;
+    margin-top: 50px;
 
 }
 .img_product3{
