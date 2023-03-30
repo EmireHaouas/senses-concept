@@ -557,6 +557,8 @@ nav{
     nav{
       padding-left: 160px;
       width: 422px;
+      padding-bottom: 20px;
+      padding-top: 10px;
     }
     .link1, .link2{
       font-size: 15px;
