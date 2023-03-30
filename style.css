@@ -376,21 +376,32 @@ nav{
     }
     header{
       width: 100%;
+      position: relative;
     }
+    
     .logo{
-      width: 100px;
-      height: 100px;
+      width: 200px;
+      height: 200px;
       margin-top: 90px;
+      position: absolute;
+      bottom: -90px;
     }
     .mail{
       font-size: 10px;
       width: 240px;
       height: 10px;
+      margin-top: 20px;
+      position: absolute;
+      right: 0px;
+      left: 0px;
     }
     .phone{
       font-size: 10px;
       flex-wrap: nowrap;
       width: 130px;
+      position: absolute;
+      left: 300px;
+      margin-top: 20px;
     }
     .instagram_card1, .instagram_card2, .instagram_card3, .instagram_card4{
       height: 21px;
