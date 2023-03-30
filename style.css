@@ -410,8 +410,8 @@ nav{
       margin-left: 5px;
     }
     .para_footer{
-      margin-left: 0;
-      font-size: 16px;
+       font-size: 13px;
+       margin: 30px 10px 30px 15px;
     }
     a:link {
       text-decoration: none;
