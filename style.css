@@ -77,29 +77,29 @@ nav{
     
 }
 .img_product1{
-    height: 384px;
-    width: 730px;
+    height: 385px;
+    width: 728px;
     margin-top: 50px;
 
 }
 .img_product2{
-    height: 384px;
-    width: 730px;
+    height: 385px;
+    width: 728px;
     margin-left: 25px;
     margin-top: 50px;
 
 }
 .img_product3{
-    height: 384px;
-    width: 730px;
+    height: 385px;
+    width: 728px;
 
 }
 .link1{
     margin-right: 20px;
 }
 .img_product4{
-    height: 384px;
-    width: 730px;
+    height: 385px;
+    width: 728px;
     margin-left: 25px;
 
 }
@@ -410,17 +410,16 @@ nav{
       }
       .img_product1{
         margin-left: 25px;
-        width: 80%;
+        width: 85%;
         height: auto;
       }
       .img_product2{
         width: 80%;
         height: auto;
-
       }
       .img_product3{
         margin-left: 25px;
-        width: 80%;
+        width: 85%;
         height: auto;
       }
      .card4{ 
@@ -515,25 +514,30 @@ nav{
       right: 0px;
       top: 0px;
       left: 140px;
+      bottom: 280px;
+      top: 15px;
+      left: 145px;
     }
     .logo_card2{
       height: 75px;
       width: 75px;
       top: 0px;
       left: 140px;
+      top: 10px;
+      left: 145px;
 
     }
     .logo_card3{
       height: 75px;
       width: 75px;
-      top: -30px;
-      left: 140px;
+      top: -35px;
+      left: 145px;
     }
     .logo_card4{
       height: 75px;
       width: 75px;
-      top: -30px;
-      left: 140px;
+      top: -35px;
+      left: 145px;
     }
     
   }
