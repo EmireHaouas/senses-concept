@@ -509,6 +509,32 @@ nav{
       margin-left: 0;
       width: 250px;
     }
+    .logo_card1{
+      height: 75px;
+      width: 75px;
+      right: 0px;
+      top: 0px;
+      left: 140px;
+    }
+    .logo_card2{
+      height: 75px;
+      width: 75px;
+      top: 0px;
+      left: 140px;
+
+    }
+    .logo_card3{
+      height: 75px;
+      width: 75px;
+      top: -30px;
+      left: 140px;
+    }
+    .logo_card4{
+      height: 75px;
+      width: 75px;
+      top: -30px;
+      left: 140px;
+    }
     
   }
   
