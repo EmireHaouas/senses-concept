@@ -310,9 +310,10 @@ nav{
       display: flex;
       flex-direction: column;
       align-items: center;
+      justify-content: center;
     }
     .img_product1, .img_product2, .img_product3, .img_product4{
-      width: 90%;
+      width: 80%;
       height: auto;
     }
     body{
@@ -328,9 +329,16 @@ nav{
     }
     .mail{
       font-size: 10px;
+      width: 240px;
+      height: 10px;
     }
     .phone{
-      font-size: 16px;
+      font-size: 10px;
+      flex-wrap: nowrap;
+      width: 130px;
+    }
+    .social_card1, .social_card2, .social_card3, .social_card4{
+      
+
     }
   }
-  
