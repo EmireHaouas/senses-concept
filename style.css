@@ -577,7 +577,7 @@ nav{
   
     
   }
-  @media only screen and (min-width: 1200px) and (max-width: 1400px){
+  @media only screen and (min-width: 1130px) and (max-width: 1400px){
 
     .img_product1, .img_product2, .img_product3, .img_product4{
       height: 285px;
