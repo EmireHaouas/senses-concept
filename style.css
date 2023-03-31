@@ -356,7 +356,7 @@ nav{
     margin-bottom: 53px;
   }
   
-  @media only screen and (max-width: 767px) {
+  @media only screen and (max-width: 768px) {
     footer {
       width: 100%;
       height: auto;
@@ -570,6 +570,103 @@ nav{
   
     
   }
+  @media only screen and (min-width: 1200px) and (max-width: 1400px){
+
+    .img_product1, .img_product2, .img_product3, .img_product4{
+      height: 285px;
+      width: 528px;
+
+    }
+    header{
+      width: 1200px;;
+      position: relative;
+    }
+    footer {
+      width: 107%;
+      height: auto;
+    }
+    .upside_footer{
+      flex-wrap: wrap;
+      width: 100%;
+    }
+    nav{
+      padding-left: 0px;
+      width: 260px;
+      margin-left: 942px;
+      padding-left: 0;
+    }
+    .mail{
+      left: 40px;
+      position: absolute;
+    }
+    .logo{
+      position: absolute;
+      left: 440px;
+    }
+    .phone{
+      position:absolute;
+      left: 930px;
+    }
+    .logo_card1{
+      bottom: 175px;
+      left: 190px;
+    }
+    .logo_card2{
+      bottom: 175px;
+      left: 190px;
+    }
+    .logo_card3{
+      left: 150px;
+      bottom: 180px;
+    
+    }
+    .logo_card4{
+      bottom: 180px;
+      left: 200px;
+    }
+    .hr_form{
+      width: 1075px;
+      margin-left: 0px;
+    }
+    .subtitle_form{
+      font-size: 25px;
+      font-weight: 400;
+    }
+    .article{
+      display: flex;
+      flex-direction: column-reverse;
+      width: 1183px;
+    }
+    .showroom_img{
+      position: absolute;
+      top: 1719.7px;
+      width: 45%;
+      bottom: -1752.87px;
+      height: 400px;
+      margin-left: 25px;
+      left: 613px;
+    }
+    
+    
+    iframe{
+      width: 50%;
+      height: 400px;
+    }
+    .form4{
+      width: 210px;
+    }
+    .form2{
+      width: 215px;
+    }
+    .hr_maps{
+      width: 1000px;
+    }
+    body{
+      width: 1130px;
+    }
+
+  }
+  
   
 
 
