@@ -664,6 +664,14 @@ nav{
     body{
       width: 1130px;
     }
+    .logo_footerimg{
+      position: absolute;
+      top: 2273.77px;
+      left: 204.55px;
+    }
+    .senses_color{
+      margin-left: 0px;
+    }
 
   }
   
