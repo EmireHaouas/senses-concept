@@ -356,7 +356,7 @@ nav{
     margin-bottom: 53px;
   }
   
-  @media only screen and (max-width: 500px) {
+  @media only screen and (max-width: 767px) {
     footer {
       width: 100%;
       height: auto;
@@ -562,6 +562,7 @@ nav{
       width: 268px;
       padding-bottom: 20px;
       padding-top: 10px;
+      padding-right: 72px;
     }
     .link1, .link2{
       font-size: 15px;
