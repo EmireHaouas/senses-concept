@@ -25,6 +25,13 @@ main{
   bottom: 280px;
   left: 270px;
 }
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
 .logo_card2{
   height: 200px;
   width: 200px;
